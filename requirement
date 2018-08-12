@@ -1,0 +1,9 @@
+urllib
+bs4
+requests
+jieba
+codecs
+pandas
+numpy
+scipy
+wordcloud
